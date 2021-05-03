@@ -1,0 +1,38 @@
+
+.carousel {
+    height:650px;
+width: 550px;
+align-content: center;
+
+    }
+img{
+    height:650px;
+width: 550px;
+}
+ body{
+        padding: 10px 50px 50px 50px;
+      
+  }
+
+h2{
+    font-family: 'Oxygen', sans-serif;
+    margin-top: 24px;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 18px;
+    text-align: center;
+
+}
+h1{
+    font-size: 36px;
+    font-family: 'Oxygen', sans-serif;
+  margin-bottom: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
